@@ -1,0 +1,142 @@
+.box1 {
+	background-color: white;
+	border: 2px solid #CBCBCB;
+	padding: 30px;
+	margin: 20px;
+
+}
+
+.box1 h1 {
+	border-bottom: 2px solid #CBCBCB;
+	padding-bottom: 10px;
+	color: #4AAAA5;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+
+}
+
+.box2 {
+	background-color: white;
+	border: 2px solid #CBCBCB;
+	padding: 30px;
+	margin: 20px;
+	color: #8E989C;
+	margin-bottom: 20px;
+	height: 200px;
+}
+
+.box2 h3 {
+	border-bottom: 1px solid #CBCBCB;
+	padding-bottom: 10px;
+	color: #4AAAA5;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.navbar {
+	border-bottom: 2px solid #CBCBCB;
+	background-color: white;
+	
+}
+
+.navbar-brand {
+	background-color: #4AAAA5;
+	color: white !important;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	letter-spacing: .1em;
+}
+
+img {
+	width: 35%;
+	margin-right: 20px;
+
+	
+}
+
+.info img{
+	float: left;
+	background-color: yellow;
+	margin-top: 10px;
+}
+
+.info {
+	background-color: white;
+	margin-top: 20px;
+}
+
+.info p {
+	line-height: 2.0em;
+	font-size: 16px;
+	color: #8E989C;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 70px;
+  background: #333;
+  color: #CBCBCB;
+  text-align: center;
+  border-top: 6px solid #4AAAA5
+}
+
+.footer p {
+	margin-top: 18px;
+}
+
+.navbar-right {
+	background-color:;
+
+
+}
+
+.navbar-right a {
+	color: #8E989C !important;
+}
+
+.inside2 img {
+	text-align: center;
+	background-color: blue;
+	height: 48px;
+	width: 48px;
+	margin-top: 10px;
+	margin-left: 15px;
+	padding: 0;
+	
+}
+
+.inside2 a {
+	float: left;
+}
+
+button {
+	color: white !important;
+	background-color: #4AAAA5 !important;
+}
+
+.insideport {
+	width: 100%;
+	height: 330px;
+	background-color: white;
+	
+}
+
+#pics {
+	float: left;
+	margin: 0;
+	padding-bottom: 10px;
+	background-color: white;
+}
+
+.picleft {
+	float: right !important;
